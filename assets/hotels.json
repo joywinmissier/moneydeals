@@ -1,0 +1,48 @@
+[{
+		"hotel_name": "Samudra Residency",
+		"owner_name": "Rajesh",
+		"category": "Lodging",
+		"availability": "10",
+		"cancellation": true,
+		"country": "India",
+		"address": "City center, Chennai",
+		"city":"Chennai",
+		"rating": "4",
+		"price": 1000,
+		"proof_needed": true,
+		"img": "https://cdn1.goibibo.com/t_fs/samudra-residency-chennai-img-20180329-wa0071-139236453849-orijgp.jpg"
+		
+
+	},
+	{
+		"hotel_name": "Hotel Himalaya Residency",
+		"owner_name": "Ramesh",
+		"category": "Lodging,Hotel",
+		"availability": "12",
+		"cancellation": false,
+		"country": "India",
+		"address": "Triplicane, Chennai",
+		"city":"Chennai",
+		"rating": "3",
+		"price": 800,
+		"proof_needed": false,
+		"img": "https://cdn1.goibibo.com/t_fs/samudra-residency-chennai-img-20180329-wa0071-139236453849-orijgp.jpg"
+		
+		
+	},
+	{
+		"hotel_name": "Chandran Hyline",
+		"owner_name": "Manoj",
+		"category": "Lodging,Hotel,Corporate Lodging",
+		"availability": "22",
+		"cancellation": true,
+		"country": "India",
+		"address": "Medavakkam, Chennai",
+		"city":"Chennai",
+		"rating": "3",
+		"price": 1700,
+		"proof_needed": true,
+		"img": "https://cdn1.goibibo.com/t_fs/samudra-residency-chennai-img-20180329-wa0071-139236453849-orijgp.jpg"
+
+	}
+]
